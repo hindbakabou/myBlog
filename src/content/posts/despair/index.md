@@ -2,7 +2,7 @@
 title: silent cries:The Face of Despair 
 published: 2024-11-14  
 description: "shedding light on the quiet agony behind the masks we wear, a testament to the strength found in quiet suffering"  
-image: "./nonvisible.jpeg"  
+image: "./despair.jpg"  
 tags: ["lifeReflections", "QuietResilience"]  
 category: Self  
 draft: false  
