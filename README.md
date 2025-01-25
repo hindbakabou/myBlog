@@ -51,7 +51,7 @@ Feel free to adapt the design, tweak the content structure, or make this blog yo
 
 ## 🌍 Live Site  
 
-Check out the live version of Aris Dairy here: [https://arisblog.me](https://arisblog.me)  
+Check out the live version of Aris Diary here: [https://arisblog.me](https://arisblog.me)  
 
 ## 🤝 Contributions  
 
