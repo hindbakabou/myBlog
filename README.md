@@ -1,6 +1,6 @@
-# Aris Dairy 📝  
+# Aris Diary 📝  
 
-Welcome to **Aris Dairy**, a personal blog where I capture and share anything that sparks my curiosity, inspires me, or simply feels worth documenting. Built with the sleek and modern **Astro framework**, this site is my digital space to write freely and connect through words.  
+Welcome to **Aris Diary**, a personal blog where I capture and share anything that sparks my curiosity, inspires me, or simply feels worth documenting. Built with the sleek and modern **Astro framework**, this site is my digital space to write freely and connect through words.  
 
 ## ✍️ What You'll Find  
 
