@@ -6,7 +6,7 @@
 
 She’s the kind of person who lights up a room not with a loud entrance but with her quiet confidence and intellect. A brilliant mind, always curious, always seeking, she’s someone who finds beauty in understanding how the world works. Whether she’s delving into the depths of scientific concepts or explaining something complex with effortless clarity, she carries a passion for knowledge that’s absolutely inspiring.
 
-## Her Music, Her Soul
+## Her Music, her Soul
 
 When it comes to music, she’s a true metalhead at heart. The heavy riffs, the intricate solos, the raw emotion—it all resonates with her deeply. Metal is more than just music for her; it’s an outlet, a reflection of her strength, her resilience, and her fiery spirit. It’s in the way she knows every note of her favorite songs, the way she gets lost in the sound, and the way she appreciates the artistry behind it all.
 
