@@ -2,7 +2,7 @@
 
 > this my man describing me ❤️
 
-## Who She Is
+## Who She is
 
 She’s the kind of person who lights up a room not with a loud entrance but with her quiet confidence and intellect. A brilliant mind, always curious, always seeking, she’s someone who finds beauty in understanding how the world works. Whether she’s delving into the depths of scientific concepts or explaining something complex with effortless clarity, she carries a passion for knowledge that’s absolutely inspiring.
 
