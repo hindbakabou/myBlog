@@ -1,6 +1,6 @@
 ---
 title: The Girl in the Park - A Kafkaesque Encounter  
-published: 2024-11-14  
+published: 2024-11-12  
 description: "A philosophical reflection on existence inspired by Kafka's themes of absurdity and fate."  
 image: "./kafka_and_girl.jpeg"  
 tags: ["Kafka", "philosophy", "existence", "life"]  
