@@ -1,6 +1,6 @@
 # About Me
 
-> this my bf describing me ❤️
+> this my man describing me ❤️
 
 ## Who She Is
 
