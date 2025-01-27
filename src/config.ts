@@ -46,19 +46,15 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/girl_holding_skull_square.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Aris Dairy',
-  bio: 'An explorer of truth, mysteries, and the unseen threads connecting everything.',
+  name: 'Aris Diary',
+  bio: 'a quiet space for the loudest thoughts',
   links: [
     {
       name: 'Instagram',
       icon: 'fa6-brands:instagram',
-      url: 'https://instagram.com/aris.dairy',
+      url: 'https://instagram.com/aris.diary',
     },
-    {
-      name: 'Steam',
-      icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
-    }
+    
   ],
 }
 
