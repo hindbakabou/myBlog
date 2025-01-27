@@ -1,7 +1,6 @@
 ---
 title: Reflections on Love and Hidden Agony
-published: 2024-11-14 
-# year-month-day
+published: 2024-11-9
 description: "When pretending hurts more then the Truth"
 image: "./girl_sitting_on_rock.jpeg"
 tags: ["thoughts", "agony", "life"]
