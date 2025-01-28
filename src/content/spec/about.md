@@ -12,7 +12,7 @@ When it comes to music, she’s a true metalhead at heart. The heavy riffs, the 
 
 ## The Hardworking Dreamer
 
-She’s not just smart; she’s relentless. A hard worker who never backs down from a challenge, she puts her heart and soul into everything she does. Whether it’s her studies, her projects, or simply explaining something she’s passionate about, she brings a level of dedication and focus that’s rare to see. She inspires those around her to strive for more, to work harder, and to never settle.
+She’s not just smart; she’s relentless.A hard worker who never backs down from a challenge, she puts her heart and soul into everything she does. Whether it’s her studies, her projects, or simply explaining something she’s passionate about, she brings a level of dedication and focus that’s rare to see. She inspires those around her to strive for more, to work harder, and to never settle.
 
 ## Why I Love Her
 
