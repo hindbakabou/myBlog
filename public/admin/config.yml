@@ -11,6 +11,9 @@ collections:
     folder: "src/content/posts"
     create: true
     slug: "{{slug}}"
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: "./"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Published Date", name: "published", widget: "datetime" }
