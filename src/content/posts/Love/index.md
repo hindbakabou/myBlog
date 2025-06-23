@@ -1,11 +1,14 @@
 ---
-title:  The nature of attachment :a thoughtful exploration of us
+title: The nature of attachment :a thoughtful exploration of Us
 published: 2024-01-27
-description: "exploring the deep connection between us, & how attachment shapes who we are together."  
-image: "./download.jpeg"  
-tags: ["Love", "soulmate"]  
+description: exploring the deep connection between us, & how attachment shapes
+  who we are together.
+image: ./download.jpeg
+tags:
+  - Love
+  - soulmate
 category: Love
-draft: false  
+draft: false
 ---
 
 # from hesitation to certainty
